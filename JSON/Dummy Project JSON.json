@@ -1,0 +1,45 @@
+{
+  "Users" : {
+    "Banyabapu Godbole" : {
+      "email" : "hisFakeEmailAddress@gmail.com",
+      "location" : "Barkewadi",
+      "name" : "Banyabapu Godbole"
+    },
+    "Fadtare" : {
+      "email" : "hisFakeEmailAddress@gmail.com",
+      "location" : "Daulatnagar",
+      "name" : "Nitin Stores"
+    },
+    "Geetanjali Stores" : {
+      "email" : "fakeEmail@gmail.com",
+      "location" : "Punjab",
+      "name" : "Chacha Stores"
+    },
+    "Krishna Shop" : {
+      "email" : "hisFakeEmailAddress@gmail.com",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/dummy-project-845be.appspot.com/o/krishna_shop.png?alt=media&token=daa21627-b1b2-48b2-9091-70154f3d507b",
+      "location" : "Mumbai",
+      "name" : "Krishna Shop"
+    },
+    "Paras Provisions" : {
+      "email" : "hisFakeEmailAddress@gmail.com",
+      "location" : "Pune",
+      "name" : "Paras Provisions"
+    },
+    "Pooja Varieties" : {
+      "email" : "prasadKhurd864@gmail.com",
+      "location" : "Punjab",
+      "name" : "Pooja Varieties"
+    },
+    "Sakshi Varieties" : {
+      "email" : "newemail@gmail.con",
+      "location" : "Highway",
+      "name" : "Sakshi Varieties"
+    },
+    "Swati Medical" : {
+      "email" : "swatiMedical@gmail.com",
+      "location" : "Shaniwar Path",
+      "name" : "Swati Medical"
+    }
+  }
+}
